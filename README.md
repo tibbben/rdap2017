@@ -2,7 +2,7 @@
 
 This repository contains a short presentation for RDAP 2017. 
 
-If you are looking for the actual presentation, please see the hosted version](http://tibbben.github.io/rdap2017/).
+If you are looking for the actual presentation, please see the [hosted version](http://tibbben.github.io/rdap2017/).
 
 If you are looking for the repository for the curriculum materials for the course on research data management and data wrangling please visit [https://github.com/tibbben/school.of.data](https://github.com/tibbben/school.of.data).  
 
