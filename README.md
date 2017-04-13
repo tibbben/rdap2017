@@ -2,9 +2,11 @@
 
 This repository contains a short presentation for RDAP 2017. 
 
-If you are looking for the actual curriculum materials for the course on research data management and data wrangling please visit [https://github.com/tibbben/school.of.data](https://github.com/tibbben/school.of.data).  
+If you are looking for the actual presentation, please see the hosted version](http://tibbben.github.io/rdap2017/).
 
-If you are not looking for the repository, but simply the curriculum materials, please see the [hosted version](http://tibbben.github.io/school.of.data/). 
+If you are looking for the repository for the curriculum materials for the course on research data management and data wrangling please visit [https://github.com/tibbben/school.of.data](https://github.com/tibbben/school.of.data).  
+
+If you are not looking for the above repository, but simply the curriculum materials, please see the [hosted version](http://tibbben.github.io/school.of.data/). 
 
 ---
 
@@ -27,7 +29,7 @@ Please see the full license terms here: https://creativecommons.org/licenses/by/
 
 ### Credits and Attributions
 
-The repository was created by Tim Norris with help and inspiriation from many others including Elizabeth Fish, Angela Clark, and all the students who have participated in the seminar.
+The repository was created by Timothy Norris with help and inspiriation from many others including Elizabeth Fish, Angela Clark, and all the students who have participated in the seminar.
 
 ---
 
